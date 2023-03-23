@@ -1,0 +1,20 @@
+form{
+    color: brown;
+    background-color: aqua;
+   /*  height: 100vh; */
+ 
+}
+.bdr{
+    border-style: dashed;
+    border-color: royalblue;
+    margin:40px 20px 40px 60px;
+    padding: 30px;
+
+}
+body{
+    background-image: url(/hacking.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
